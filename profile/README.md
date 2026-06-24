@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🐾 Quogol Browser
+# Quogol Browser
 
 **Your Privacy-First Browser. Built different. Built for you.**
 
