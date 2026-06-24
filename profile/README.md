@@ -21,17 +21,17 @@ Quogol is a **privacy-first web browser** that puts you back in control of your 
 
 ---
 
-## ✨ Core Principles
+## Core Principles
 
-- 🔒 **Privacy by Default** — No telemetry, no data collection, no phone-home behavior.
-- ⚡ **Performance First** — Lightweight and fast, even on modest hardware.
-- 🧹 **Clean UI** — Distraction-free interface designed to stay out of your way.
-- 🐛 **Anti-Tracking** — Built-in protection against fingerprinting, ad trackers, and invasive scripts.
-- 🎨 **Customizable** — Themes, layouts, and behaviors that adapt to how *you* browse.
+-  **Privacy by Default** — No telemetry, no data collection, no phone-home behavior.
+-  **Performance First** — Lightweight and fast, even on modest hardware.
+-  **Clean UI** — Distraction-free interface designed to stay out of your way.
+-  **Anti-Tracking** — Built-in protection against fingerprinting, ad trackers, and invasive scripts.
+-  **Customizable** — Themes, layouts, and behaviors that adapt to how *you* browse.
 
 ---
 
-## 🗂️ Repositories
+##  Repositories
 
 | Repo | Description |
 |------|-------------|
@@ -41,17 +41,17 @@ Quogol is a **privacy-first web browser** that puts you back in control of your 
 
 ---
 
-## 🚧 Status
+## Status
 
 Quogol is currently in **active development**. We're building in public — expect frequent updates, bold ideas, and the occasional Platybara sighting. 🦆🦦
 
 ---
 
-## 🌐 Links
+## Links
 
-- 🖥️ **Website:** [quogol.com](https://quogol.com)
-- 📬 **Contact:** Available via the website
-- 🐾 **Follow development:** Watch this org for updates
+-  **Website:** [quogol.com](https://quogol.com) 
+-  **Contact:** Available via the website
+-  **Follow development:** Watch this org for updates
 
 ---
 
