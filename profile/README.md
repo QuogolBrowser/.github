@@ -1,3 +1,4 @@
+<img width="1080" height="1080" alt="Quogol Favicon" src="https://github.com/user-attachments/assets/56ec2a38-7818-4a56-a400-6ab0dfbced82" />
 <!-- QUOGOL ORG PROFILE -->
 
 <div align="center">
